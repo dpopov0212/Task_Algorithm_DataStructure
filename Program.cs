@@ -7,6 +7,7 @@ namespace HomeTask_Algorithm_DataStructure
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
         }
     }
 }
